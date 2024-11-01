@@ -5,14 +5,14 @@
 </div>
 
 > [!IMPORTANT]  
-> 基于 [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)，去除黑名单及番剧解锁等功能。
+> 基于 [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 >
 > 此 Fork 针对 Play 版本测试，仅进行维护性更新。
 
 > [!NOTE]  
-> 预编译包 [BiliRoamingM-PreBuilds Release](https://github.com/sakarie9/BiliRoamingM-PreBuilds/releases/latest)
+> **不提供** 预编译包
 >
-> 更新频道 [t.me/bilim_builds](https://t.me/bilim_builds)
+> **请勿在公开场合分享**，随时跑路
 
 基于 ReVanced 实现的B站 Android 客户端增强模块。模块设置完美融入 APP 设置，功能丰富，自定义程度高。
 得益于实现方式，对 APP 性能几乎没有影响，流畅、迅速、启动快。支持粉版、Play 版及 HD 版。
