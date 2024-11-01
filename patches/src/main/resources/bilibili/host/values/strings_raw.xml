@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="biliroaming_project_url">https://github.com/sakarie9/BiliRoamingM</string>
-    <string name="biliroaming_tg_url">https://t.me/bilim_builds</string>
+    <string name="biliroaming_tg_url">https://t.me/durov</string>
     <string name="biliroaming_feedback_url">https://github.com/sakarie9/BiliRoamingM/issues/new/choose</string>
 </resources>
