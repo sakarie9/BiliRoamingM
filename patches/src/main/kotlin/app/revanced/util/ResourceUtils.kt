@@ -9,6 +9,9 @@ import java.io.File
 import java.nio.file.Files
 import java.nio.file.StandardCopyOption
 
+import app.revanced.util.resource.BaseResource
+import app.revanced.patcher.patch.PatchException
+
 private val classLoader = object {}.javaClass.classLoader
 
 /**
